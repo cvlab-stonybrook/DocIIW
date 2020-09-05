@@ -7,7 +7,7 @@ Quick Links: [PDF](https://www.bmvc2020-conference.com/assets/papers/0906.pdf) |
 * **Coming Soon:** Training Code 
 ## Doc3DShade
 Doc3DShade extends [Doc3D](https://github.com/cvlab-stonybrook/doc3D-dataset) with realistic lighting and shading. Follows a similar synthetic rendering procedure using captured document 3D shapes but final image generation step combines real shading of different types of paper materials under numerous illumination conditions. Following figure illustrates the image generation pipeline:
-![Dataset Capture Pipeline](/assets/pipline.png)
+![Dataset Capture Pipeline](/assets/pipeline.png)
 
 Following figure shows a side-by-side comparison of images in Doc3DShade and Doc3D:
 ![Comparison with Doc3D](/assets/comp.png)
