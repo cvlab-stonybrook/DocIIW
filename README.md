@@ -1,5 +1,5 @@
 # DocIIW
-Repository for the paper Intrinsic Decomposition of Document Images In-the-Wild (BMVC '20)
+Repository for the paper "Intrinsic Decomposition of Document Images In-the-Wild" (BMVC '20)
 
 Quick Links: [PDF](https://www.bmvc2020-conference.com/assets/papers/0906.pdf) | [arXiv (Coming Soon)]() |  [Talk](https://www.bmvc2020-conference.com/conference/papers/paper_0906.html) | [Supplementary](https://drive.google.com/file/d/1wQs6p6mMkm-z6dn9SQyPl6gwCqV2YJhf/view?usp=sharing) 
 ## Updates
