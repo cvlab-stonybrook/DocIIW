@@ -4,8 +4,9 @@ Repository for the paper "Intrinsic Decomposition of Document Images In-the-Wild
 
 Quick Links: [PDF](https://www.bmvc2020-conference.com/assets/papers/0906.pdf) | [arXiv](https://arxiv.org/pdf/2011.14447.pdf) |  [Talk](https://www.bmvc2020-conference.com/conference/papers/paper_0906.html) | [Supplementary](https://drive.google.com/file/d/1wQs6p6mMkm-z6dn9SQyPl6gwCqV2YJhf/view?usp=sharing) 
 ## Updates
-* **Sep 5th, 2020:**  Initial data is released (90K images)
-* **Coming Soon:** Training Code 
+* **Sep 5th, 2020:**  Initial data is released (90K images).
+* **Mar 20th, 2021:** Evaluation images are released.
+* **Coming Soon:** Training Code
 ## Doc3DShade
 Doc3DShade extends [Doc3D](https://github.com/cvlab-stonybrook/doc3D-dataset) with realistic lighting and shading. Follows a similar synthetic rendering procedure using captured document 3D shapes but final image generation step combines real shading of different types of paper materials under numerous illumination conditions. 
 <br>
