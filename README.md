@@ -1,3 +1,4 @@
+
 # DocIIW
 Repository for the paper "Intrinsic Decomposition of Document Images In-the-Wild" (BMVC '20)
 
@@ -19,7 +20,16 @@ Doc3Dshade contains 90K images, 80K used for training and 10K for validation. Sp
 * Download the white-balanced images from [wbl.zip](https://drive.google.com/file/d/1bhWqCezS1FTCUtSjQk6jgmIBD4IWrbjp/view?usp=sharing) .
 * Download synthetic textures from [alb.zip](https://drive.google.com/file/d/1iFr9xfTPJBuBH2rThPXLgpWiSlhNtg1e/view?usp=sharing) .
 
-
+### Evaluation Images and Results
+* Real test images are given in: ```/testimgs/real```
+* Shading removed real test images:
+	* Basic: [GDrive Link](https://drive.google.com/drive/folders/1vs5zqdqRjIXrcGc7EYhnqNI06QRQ1Ey2?usp=sharing)
+* Shading removed DocUNet [1] images are available at: 
+	* Basic: [GDrive Link](https://drive.google.com/drive/folders/1YA1tcaHKxDm-80Nbjd9ln6_IYBpMhzXH?usp=sharing)
+	* With adversarial loss: [GDrive Link](https://drive.google.com/drive/folders/1wDG3PIu6sx7q8oS-1_VGs3FPhMV4iJUn?usp=sharing)
+* Shading removed and unwarped [2] DocUNet [1] images are available at:
+	* Basic: [GDrive Link](https://drive.google.com/drive/folders/1H5Bv5wgBxz4jq7Dr2VfH__OmiWBqVviH?usp=sharing)
+	*  With adversarial loss: [GDrive Link](https://drive.google.com/drive/folders/160SQDv4PmRmIpNnp7_5450qKhfHf21SF?usp=sharing)
 ### Citation:
 If you use the dataset, please consider citing our work-
 ```
@@ -32,4 +42,7 @@ If you use the dataset, please consider citing our work-
 }
 ```
 
+### References: 
+[1] DocUNet: https://www3.cs.stonybrook.edu/~cvl/docunet.html
 
+[2] DewarpNet: https://sagniklp.github.io/dewarpnet-webpage/
