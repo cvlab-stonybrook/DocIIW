@@ -20,9 +20,9 @@ Following figure shows a side-by-side comparison of images in Doc3DShade and Doc
 
 ### Data Download Instructions
 Doc3Dshade contains 90K images, 80K used for training and 10K for validation. Split used in the paper: [train](https://drive.google.com/file/d/1kRrmheEr2uNpYW6839rD1jCPa57YcxAb/view?usp=sharing), [val](https://drive.google.com/file/d/14siJyQOtxq4HNbfX8R969VhhR7wv-t8_/view?usp=sharing)
-* Download the input images from [img.zip](https://drive.google.com/file/d/1ixxgbcGoNIdYudoHUvGaQlXHiH1Vqv_I/view?usp=sharing) .
-* Download the white-balanced images from [wbl.zip](https://drive.google.com/file/d/1bhWqCezS1FTCUtSjQk6jgmIBD4IWrbjp/view?usp=sharing) .
-* Download synthetic textures from [alb.zip](https://drive.google.com/file/d/1iFr9xfTPJBuBH2rThPXLgpWiSlhNtg1e/view?usp=sharing) .
+* Download the input images from [img.zip](https://drive.google.com/file/d/1ixqktu8dC3pSE4EskOadqLKTJwDW9-J-/view?usp=sharing) .
+* Download the white-balanced images from [wbl.zip](https://drive.google.com/file/d/1o-8jtnYysXqmFbV-xB_N4Wwcpxg38t67/view?usp=sharing) .
+* Download synthetic textures from [alb.zip](https://drive.google.com/file/d/1CwLSwO7-ePN6tJayeUrxnSL8d9PvIfcJ/view?usp=sharing) .
 
 ### Training Instructions
 * Upcoming
