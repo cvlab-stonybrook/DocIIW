@@ -2,7 +2,7 @@
 # DocIIW
 Repository for the paper "Intrinsic Decomposition of Document Images In-the-Wild" (BMVC '20)
 
-Quick Links: [PDF](https://www.bmvc2020-conference.com/assets/papers/0906.pdf) | [arXiv](https://arxiv.org/pdf/2011.14447.pdf) |  [Talk](https://www.bmvc2020-conference.com/conference/papers/paper_0906.html) | [Supplementary](https://drive.google.com/file/d/1wQs6p6mMkm-z6dn9SQyPl6gwCqV2YJhf/view?usp=sharing) 
+Quick Links: [PDF](https://www.bmvc2020-conference.com/assets/papers/0906.pdf) | [arXiv](https://arxiv.org/pdf/2011.14447.pdf) |  [Talk](https://www.bmvc2020-conference.com/conference/papers/paper_0906.html) | [Supplementary](https://drive.google.com/file/d/1HTL0L9bTeMJF3DwEBWZdlPXl-tGhRK4S/view?usp=share_link) 
 ## Updates
 * **Sep 5th, 2020:**  Initial data is released (90K images).
 * **Mar 20th, 2021:** Evaluation images are released.
@@ -19,7 +19,7 @@ Following figure shows a side-by-side comparison of images in Doc3DShade and Doc
 ![Comparison with Doc3D](/assets/comp.png)
 
 ### Data Download Instructions
-Doc3Dshade contains 90K images, 80K used for training and 10K for validation. Split used in the paper: [train](https://drive.google.com/file/d/1kRrmheEr2uNpYW6839rD1jCPa57YcxAb/view?usp=sharing), [val](https://drive.google.com/file/d/14siJyQOtxq4HNbfX8R969VhhR7wv-t8_/view?usp=sharing)
+Doc3Dshade contains 90K images, 80K used for training and 10K for validation. Split used in the paper: [train](https://drive.google.com/file/d/15ZPmNU6XeLd4pg4Mz8Qm6oXLHn8CzCMx/view?usp=share_link), [val](https://drive.google.com/file/d/12t6-XRLHgzDjs9PdpZiTXzIfhBn97lCu/view?usp=share_link)
 * Download the input images from [img.zip](https://drive.google.com/file/d/1ixqktu8dC3pSE4EskOadqLKTJwDW9-J-/view?usp=sharing) .
 * Download the white-balanced images from [wbl.zip](https://drive.google.com/file/d/1o-8jtnYysXqmFbV-xB_N4Wwcpxg38t67/view?usp=sharing) .
 * Download synthetic textures from [alb.zip](https://drive.google.com/file/d/1CwLSwO7-ePN6tJayeUrxnSL8d9PvIfcJ/view?usp=sharing) .
@@ -28,21 +28,21 @@ Doc3Dshade contains 90K images, 80K used for training and 10K for validation. Sp
 * Upcoming
 
 ### Pre-trained Models
-* All models: [GDrive Link](https://drive.google.com/drive/folders/1KFA-nu1CkjSCtTo_wFZx_033hxvT1fGt?usp=sharing)
-* WBNet: [GDrive Link](https://drive.google.com/file/d/1B-35CZsaiBqIP4PFtlP5hnQli1IEqxrr/view?usp=share_link)
-* SMTNet: [GDrive Link](https://drive.google.com/file/d/1akaotJzsjPVSCjopJ_uLGduRB8YdwwCS/view?usp=share_link)
-* SMTNet(w/ adversarial loss): [GDrive Link](https://drive.google.com/file/d/1Ta2WnqZsdpEswg3cryooqT_An_51qg4N/view?usp=share_link)
+* All models: [GDrive Link](https://drive.google.com/drive/folders/1sTw9Qm1naNvtJ5KrvDZOqq74mBctVNod?usp=share_link)
+* WBNet: [GDrive Link](https://drive.google.com/file/d/1pLgGgbaYV4xMmrW7568bFEK4lbt7YD2v/view?usp=share_link)
+* SMTNet: [GDrive Link](https://drive.google.com/file/d/1rdU27SFwQMx-glcYg1558fysaKy5NJxB/view?usp=share_link)
+* SMTNet(w/ adversarial loss): [GDrive Link](https://drive.google.com/file/d/1S7OKsP8ka1RruTAhTKBcz35y3ZXuQXmm/view?usp=share_link)
 
 ### Evaluation Images and Results
 * Real test images are given in: ```/testimgs/real```
 * Shading removed real test images:
-	* Basic: [GDrive Link](https://drive.google.com/drive/folders/1vs5zqdqRjIXrcGc7EYhnqNI06QRQ1Ey2?usp=sharing)
+	* Basic: [GDrive Link](https://drive.google.com/drive/folders/1ag-ZSZZMKjiq42vaeED0Bcf5RihI7TMC?usp=share_link)
 * Shading removed DocUNet [1] images are available at: 
-	* Basic: [GDrive Link](https://drive.google.com/drive/folders/1YA1tcaHKxDm-80Nbjd9ln6_IYBpMhzXH?usp=sharing)
-	* With adversarial loss: [GDrive Link](https://drive.google.com/drive/folders/1wDG3PIu6sx7q8oS-1_VGs3FPhMV4iJUn?usp=sharing)
+	* Basic: [GDrive Link](https://drive.google.com/drive/folders/10OcNxOQo_tugYZs3px1m9Uhfgipz-eJN?usp=share_link)
+	* With adversarial loss: [GDrive Link](https://drive.google.com/drive/folders/1smG7mWw1T9qwG896odWuyyYgGZuy61Y-?usp=share_link)
 * Shading removed and unwarped [2] DocUNet [1] images are available at:
-	* Basic: [GDrive Link](https://drive.google.com/drive/folders/1H5Bv5wgBxz4jq7Dr2VfH__OmiWBqVviH?usp=sharing)
-	*  With adversarial loss: [GDrive Link](https://drive.google.com/drive/folders/160SQDv4PmRmIpNnp7_5450qKhfHf21SF?usp=sharing)
+	* Basic: [GDrive Link](https://drive.google.com/drive/folders/17oZvT57hXtwaugZcY4aLepEqZ1ocirgt?usp=share_link)
+	*  With adversarial loss: [GDrive Link](https://drive.google.com/drive/folders/1v8Dx6pJGmd5LWdg1hIdru_Ffkqy23SOz?usp=share_link)
 
 ### Citation:
 If you use the dataset, please consider citing our work-
